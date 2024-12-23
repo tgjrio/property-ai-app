@@ -1,0 +1,970 @@
+[{
+    "city": "Roxbury",
+    "state": "MA"
+  }, {
+    "city": "Dorchester",
+    "state": "MA"
+  }, {
+    "city": "East Boston",
+    "state": "MA"
+  }, {
+    "city": "Boston",
+    "state": "MA"
+  }, {
+    "city": "Allston",
+    "state": "MA"
+  }, {
+    "city": "Brighton",
+    "state": "MA"
+  }, {
+    "city": "Providence",
+    "state": "RI"
+  }, {
+    "city": "Manchester",
+    "state": "NH"
+  }, {
+    "city": "Portland",
+    "state": "ME"
+  }, {
+    "city": "Bridgeport",
+    "state": "CT"
+  }, {
+    "city": "Newark",
+    "state": "NJ"
+  }, {
+    "city": "New York",
+    "state": "NY"
+  }, {
+    "city": "Staten Island",
+    "state": "NY"
+  }, {
+    "city": "Bronx",
+    "state": "NY"
+  }, {
+    "city": "Astoria",
+    "state": "NY"
+  }, {
+    "city": "Brooklyn",
+    "state": "NY"
+  }, {
+    "city": "Little Neck",
+    "state": "NY"
+  }, {
+    "city": "Elmhurst",
+    "state": "NY"
+  }, {
+    "city": "Woodside",
+    "state": "NY"
+  }, {
+    "city": "Ridgewood",
+    "state": "NY"
+  }, {
+    "city": "Kew Gardens",
+    "state": "NY"
+  }, {
+    "city": "Albany",
+    "state": "NY"
+  }, {
+    "city": "Syracuse",
+    "state": "NY"
+  }, {
+    "city": "Buffalo",
+    "state": "NY"
+  }, {
+    "city": "Rochester",
+    "state": "NY"
+  }, {
+    "city": "Philadelphia",
+    "state": "PA"
+  }, {
+    "city": "Baltimore",
+    "state": "MD"
+  }, {
+    "city": "Charleston",
+    "state": "SC"
+  }, {
+    "city": "Athens",
+    "state": "GA"
+  }, {
+    "city": "Augusta",
+    "state": "GA"
+  }, {
+    "city": "Savannah",
+    "state": "GA"
+  }, {
+    "city": "Jacksonville",
+    "state": "FL"
+  }, {
+    "city": "Orlando",
+    "state": "FL"
+  }, {
+    "city": "Miami",
+    "state": "FL"
+  }, {
+    "city": "Cleveland",
+    "state": "OH"
+  }, {
+    "city": "Cincinnati",
+    "state": "OH"
+  }, {
+    "city": "Des Moines",
+    "state": "IA"
+  }, {
+    "city": "Minneapolis",
+    "state": "MN"
+  }, {
+    "city": "Sioux Falls",
+    "state": "SD"
+  }, {
+    "city": "Wichita",
+    "state": "KS"
+  }, {
+    "city": "Omaha",
+    "state": "NE"
+  }, {
+    "city": "Oklahoma City",
+    "state": "OK"
+  }, {
+    "city": "Dallas",
+    "state": "TX"
+  }, {
+    "city": "Houston",
+    "state": "TX"
+  }, {
+    "city": "San Antonio",
+    "state": "TX"
+  }, {
+    "city": "Austin",
+    "state": "TX"
+  }, {
+    "city": "Phoenix",
+    "state": "AZ"
+  }, {
+    "city": "Las Vegas",
+    "state": "NV"
+  }, {
+    "city": "Los Angeles",
+    "state": "CA"
+  }, {
+    "city": "Venice",
+    "state": "CA"
+  }, {
+    "city": "Lomita",
+    "state": "CA"
+  }, {
+    "city": "San Pedro",
+    "state": "CA"
+  }, {
+    "city": "Northridge",
+    "state": "CA"
+  }, {
+    "city": "Reseda",
+    "state": "CA"
+  }, {
+    "city": "Van Nuys",
+    "state": "CA"
+  }, {
+    "city": "Panorama City",
+    "state": "CA"
+  }, {
+    "city": "Sherman Oaks",
+    "state": "CA"
+  }, {
+    "city": "North Hollywood",
+    "state": "CA"
+  }, {
+    "city": "Studio City",
+    "state": "CA"
+  }, {
+    "city": "Valley Village",
+    "state": "CA"
+  }, {
+    "city": "La Jolla",
+    "state": "CA"
+  }, {
+    "city": "San Diego",
+    "state": "CA"
+  }, {
+    "city": "San Francisco",
+    "state": "CA"
+  }, {
+    "city": "Honolulu",
+    "state": "HI"
+  }, {
+    "city": "Portland",
+    "state": "OR"
+  }, {
+    "city": "Seattle",
+    "state": "WA"
+  }, {
+    "city": "Anchorage",
+    "state": "AK"
+  }, {
+    "city": null,
+    "state": null
+  }, {
+    "city": "Hyde Park",
+    "state": "MA"
+  }, {
+    "city": "Woonsocket",
+    "state": "RI"
+  }, {
+    "city": "Burlington",
+    "state": "VT"
+  }, {
+    "city": "Flushing",
+    "state": "NY"
+  }, {
+    "city": "East Elmhurst",
+    "state": "NY"
+  }, {
+    "city": "Middle Village",
+    "state": "NY"
+  }, {
+    "city": "Saint Albans",
+    "state": "NY"
+  }, {
+    "city": "Ozone Park",
+    "state": "NY"
+  }, {
+    "city": "Jamaica",
+    "state": "NY"
+  }, {
+    "city": "South Richmond Hill",
+    "state": "NY"
+  }, {
+    "city": "Rosedale",
+    "state": "NY"
+  }, {
+    "city": "Far Rockaway",
+    "state": "NY"
+  }, {
+    "city": "Arverne",
+    "state": "NY"
+  }, {
+    "city": "Colonie",
+    "state": "NY"
+  }, {
+    "city": "Virginia Beach",
+    "state": "VA"
+  }, {
+    "city": "Charlotte",
+    "state": "NC"
+  }, {
+    "city": "Johns island",
+    "state": "SC"
+  }, {
+    "city": "Johns Island",
+    "state": "SC"
+  }, {
+    "city": "Atlanta",
+    "state": "GA"
+  }, {
+    "city": "Statham",
+    "state": "GA"
+  }, {
+    "city": "Columbus",
+    "state": "GA"
+  }, {
+    "city": "Miami Beach",
+    "state": "FL"
+  }, {
+    "city": "Tampa",
+    "state": "FL"
+  }, {
+    "city": "Saint Petersburg",
+    "state": "FL"
+  }, {
+    "city": "Birmingham",
+    "state": "AL"
+  }, {
+    "city": "Galloway",
+    "state": "OH"
+  }, {
+    "city": "Columbus",
+    "state": "OH"
+  }, {
+    "city": "Milwaukee",
+    "state": "WI"
+  }, {
+    "city": "Billings",
+    "state": "MT"
+  }, {
+    "city": "Smithville",
+    "state": "MO"
+  }, {
+    "city": "Kansas City",
+    "state": "MO"
+  }, {
+    "city": "Elkhorn",
+    "state": "NE"
+  }, {
+    "city": "New Orleans",
+    "state": "LA"
+  }, {
+    "city": "Bigelow",
+    "state": "AR"
+  }, {
+    "city": "Roland",
+    "state": "AR"
+  }, {
+    "city": "Little Rock",
+    "state": "AR"
+  }, {
+    "city": "Jones",
+    "state": "OK"
+  }, {
+    "city": "Fort Worth",
+    "state": "TX"
+  }, {
+    "city": "Moody",
+    "state": "TX"
+  }, {
+    "city": "Huffman",
+    "state": "TX"
+  }, {
+    "city": "Humble",
+    "state": "TX"
+  }, {
+    "city": "Porter",
+    "state": "TX"
+  }, {
+    "city": "Boerne",
+    "state": "TX"
+  }, {
+    "city": "Von Ormy",
+    "state": "TX"
+  }, {
+    "city": "Elmendorf",
+    "state": "TX"
+  }, {
+    "city": "Alice",
+    "state": "TX"
+  }, {
+    "city": "Denver",
+    "state": "CO"
+  }, {
+    "city": "Cheyenne",
+    "state": "WY"
+  }, {
+    "city": "Boise",
+    "state": "ID"
+  }, {
+    "city": "Salt Lake City",
+    "state": "UT"
+  }, {
+    "city": "Albuquerque",
+    "state": "NM"
+  }, {
+    "city": "Las vegas",
+    "state": "NV"
+  }, {
+    "city": "Las Vegas Valley",
+    "state": "NV"
+  }, {
+    "city": "West Hollywood",
+    "state": "CA"
+  }, {
+    "city": "Pacific Palisades",
+    "state": "CA"
+  }, {
+    "city": "Tujunga",
+    "state": "CA"
+  }, {
+    "city": "West Hills",
+    "state": "CA"
+  }, {
+    "city": "Canoga Park",
+    "state": "CA"
+  }, {
+    "city": "Granada Hills",
+    "state": "CA"
+  }, {
+    "city": "Sun Valley",
+    "state": "CA"
+  }, {
+    "city": "Woodland Hills",
+    "state": "CA"
+  }, {
+    "city": "Rancho Santa Fe",
+    "state": "CA"
+  }, {
+    "city": "Girdwood",
+    "state": "AK"
+  }, {
+    "city": "Charlestown",
+    "state": "MA"
+  }, {
+    "city": "Long Island City",
+    "state": "NY"
+  }, {
+    "city": "Sunnyside",
+    "state": "NY"
+  }, {
+    "city": "Jackson Heights",
+    "state": "NY"
+  }, {
+    "city": "Rego Park",
+    "state": "NY"
+  }, {
+    "city": "Forest Hills",
+    "state": "NY"
+  }, {
+    "city": "Howard Beach",
+    "state": "NY"
+  }, {
+    "city": "Richmond Hill",
+    "state": "NY"
+  }, {
+    "city": "Parkville",
+    "state": "MD"
+  }, {
+    "city": "Paradise",
+    "state": "NV"
+  }, {
+    "city": "Encino",
+    "state": "CA"
+  }, {
+    "city": "South Boston",
+    "state": "MA"
+  }, {
+    "city": "Jamaica Plain",
+    "state": "MA"
+  }, {
+    "city": "Roslindale",
+    "state": "MA"
+  }, {
+    "city": "West Roxbury",
+    "state": "MA"
+  }, {
+    "city": "East Orange",
+    "state": "NJ"
+  }, {
+    "city": "Manchester",
+    "state": "NJ"
+  }, {
+    "city": "New york",
+    "state": "NY"
+  }, {
+    "city": "Floral Park",
+    "state": "NY"
+  }, {
+    "city": "New Hyde Park",
+    "state": "NY"
+  }, {
+    "city": "Brooklyn",
+    "state": "FL"
+  }, {
+    "city": "College Pt",
+    "state": "NY"
+  }, {
+    "city": "Whitestone",
+    "state": "NY"
+  }, {
+    "city": "Bayside",
+    "state": "NY"
+  }, {
+    "city": "Oakland Gardens",
+    "state": "NY"
+  }, {
+    "city": "Fresh Meadows",
+    "state": "NY"
+  }, {
+    "city": "Garden Hills",
+    "state": "NY"
+  }, {
+    "city": "Kew Gardens Hills",
+    "state": "NY"
+  }, {
+    "city": "Corona",
+    "state": "NY"
+  }, {
+    "city": "Queens",
+    "state": "NY"
+  }, {
+    "city": "Maspeth",
+    "state": "NY"
+  }, {
+    "city": "Woodhaven",
+    "state": "NY"
+  }, {
+    "city": "Hollis",
+    "state": "NY"
+  }, {
+    "city": "Queens Village",
+    "state": "NY"
+  }, {
+    "city": "Bellerose Manor",
+    "state": "NY"
+  }, {
+    "city": "Rockaway Park",
+    "state": "NY"
+  }, {
+    "city": "Loudonville",
+    "state": "NY"
+  }, {
+    "city": "Cheektowaga",
+    "state": "NY"
+  }, {
+    "city": "Kenmore",
+    "state": "NY"
+  }, {
+    "city": "West Seneca",
+    "state": "NY"
+  }, {
+    "city": "Amherst",
+    "state": "NY"
+  }, {
+    "city": "Matthews",
+    "state": "NC"
+  }, {
+    "city": "Wando",
+    "state": "SC"
+  }, {
+    "city": "Daniel Island",
+    "state": "SC"
+  }, {
+    "city": "Midland",
+    "state": "GA"
+  }, {
+    "city": "South Miami",
+    "state": "FL"
+  }, {
+    "city": "Petersburg",
+    "state": "FL"
+  }, {
+    "city": "Lewis Center",
+    "state": "OH"
+  }, {
+    "city": "Reynoldsburg",
+    "state": "OH"
+  }, {
+    "city": "Canal Winchester",
+    "state": "OH"
+  }, {
+    "city": "Groveport",
+    "state": "OH"
+  }, {
+    "city": "Fargo",
+    "state": "ND"
+  }, {
+    "city": "Little rock",
+    "state": "AR"
+  }, {
+    "city": "Spencer",
+    "state": "OK"
+  }, {
+    "city": "Fort worth",
+    "state": "TX"
+  }, {
+    "city": "Webster",
+    "state": "TX"
+  }, {
+    "city": "Lakewood",
+    "state": "CO"
+  }, {
+    "city": "Scottsdale",
+    "state": "AZ"
+  }, {
+    "city": "Glendale",
+    "state": "AZ"
+  }, {
+    "city": "Laveen",
+    "state": "AZ"
+  }, {
+    "city": "Paradise town",
+    "state": "NV"
+  }, {
+    "city": "Spring Valley",
+    "state": "NV"
+  }, {
+    "city": "Winchester",
+    "state": "NV"
+  }, {
+    "city": "Sunrise Manor",
+    "state": "NV"
+  }, {
+    "city": "Sunrise Manor Town",
+    "state": "NV"
+  }, {
+    "city": "Paradise Town",
+    "state": "NV"
+  }, {
+    "city": "Playa Vista",
+    "state": "CA"
+  }, {
+    "city": "Beverly Hills",
+    "state": "CA"
+  }, {
+    "city": "Gardena",
+    "state": "CA"
+  }, {
+    "city": "Marina Del Rey",
+    "state": "CA"
+  }, {
+    "city": "Playa Del Rey",
+    "state": "CA"
+  }, {
+    "city": "Harbor City",
+    "state": "CA"
+  }, {
+    "city": "Wilmington",
+    "state": "CA"
+  }, {
+    "city": "Winnetka",
+    "state": "CA"
+  }, {
+    "city": "Chatsworth",
+    "state": "CA"
+  }, {
+    "city": "Los angeles",
+    "state": "CA"
+  }, {
+    "city": "Porter Ranch",
+    "state": "CA"
+  }, {
+    "city": "Pacoima",
+    "state": "CA"
+  }, {
+    "city": "Sylmar",
+    "state": "CA"
+  }, {
+    "city": "North Hills",
+    "state": "CA"
+  }, {
+    "city": "Mission Hills",
+    "state": "CA"
+  }, {
+    "city": "Tarzana",
+    "state": "CA"
+  }, {
+    "city": "Burbank",
+    "state": "CA"
+  }, {
+    "city": "Toluca Lake",
+    "state": "CA"
+  }, {
+    "city": "Mattapan",
+    "state": "MA"
+  }, {
+    "city": "Falmouth",
+    "state": "ME"
+  }, {
+    "city": "Staten island",
+    "state": "NY"
+  }, {
+    "city": "Glen Oaks",
+    "state": "NY"
+  }, {
+    "city": "Glendale",
+    "state": "NY"
+  }, {
+    "city": "Laurelton",
+    "state": "NY"
+  }, {
+    "city": "Springfield Gardens",
+    "state": "NY"
+  }, {
+    "city": "Broad Channel",
+    "state": "NY"
+  }, {
+    "city": "Solvay",
+    "state": "NY"
+  }, {
+    "city": "Lackawanna",
+    "state": "NY"
+  }, {
+    "city": "Blasdell",
+    "state": "NY"
+  }, {
+    "city": "Jamestown",
+    "state": "NY"
+  }, {
+    "city": "Lafayette Hill",
+    "state": "PA"
+  }, {
+    "city": "Pikesville",
+    "state": "MD"
+  }, {
+    "city": "Virginia beach",
+    "state": "VA"
+  }, {
+    "city": "North Charleston",
+    "state": "SC"
+  }, {
+    "city": "Lawrenceville",
+    "state": "GA"
+  }, {
+    "city": "Grovetown",
+    "state": "GA"
+  }, {
+    "city": "Bloomingdale",
+    "state": "GA"
+  }, {
+    "city": "Thunderbolt",
+    "state": "GA"
+  }, {
+    "city": "St Petersburg",
+    "state": "FL"
+  }, {
+    "city": "Irondale",
+    "state": "AL"
+  }, {
+    "city": "Center Point",
+    "state": "AL"
+  }, {
+    "city": "Jackson",
+    "state": "MS"
+  }, {
+    "city": "Dublin",
+    "state": "OH"
+  }, {
+    "city": "Powell",
+    "state": "OH"
+  }, {
+    "city": "Mifflin",
+    "state": "OH"
+  }, {
+    "city": "Mariemont",
+    "state": "OH"
+  }, {
+    "city": "Waukee",
+    "state": "IA"
+  }, {
+    "city": "Place Sioux Falls",
+    "state": "SD"
+  }, {
+    "city": "Mabelvale",
+    "state": "AR"
+  }, {
+    "city": "Mustang",
+    "state": "OK"
+  }, {
+    "city": "Yukon",
+    "state": "OK"
+  }, {
+    "city": "The Village",
+    "state": "OK"
+  }, {
+    "city": "Moore",
+    "state": "OK"
+  }, {
+    "city": "Grand Prairie",
+    "state": "TX"
+  }, {
+    "city": "Burleson",
+    "state": "TX"
+  }, {
+    "city": "Crowley",
+    "state": "TX"
+  }, {
+    "city": "Euless",
+    "state": "TX"
+  }, {
+    "city": "Haslet",
+    "state": "TX"
+  }, {
+    "city": "Mansfield",
+    "state": "TX"
+  }, {
+    "city": "Lakeside",
+    "state": "TX"
+  },{
+    "city": "Hou",
+    "state": "TX"
+  }, {
+    "city": "Kingwood",
+    "state": "TX"
+  }, {
+    "city": "Katy",
+    "state": "TX"
+  }, {
+    "city": "Stafford",
+    "state": "TX"
+  }, {
+    "city": "Crosby",
+    "state": "TX"
+  }, {
+    "city": "Kemah",
+    "state": "UT"
+  }, {
+    "city": "Helotes",
+    "state": "TX"
+  }, {
+    "city": "Converse",
+    "state": "TX"
+  }, {
+    "city": "Shavano Park",
+    "state": "TX"
+  }, {
+    "city": "Buda",
+    "state": "TX"
+  }, {
+    "city": "Kyle",
+    "state": "TX"
+  }, {
+    "city": "Manchaca",
+    "state": "TX"
+  }, {
+    "city": "Manor",
+    "state": "TX"
+  }, {
+    "city": "Cave Creek",
+    "state": "AZ"
+  }, {
+    "city": "Henderson",
+    "state": "NV"
+  }, {
+    "city": "Whitney",
+    "state": "NV"
+  }, {
+    "city": "Summerlin",
+    "state": "NV"
+  }, {
+    "city": "Spring valley",
+    "state": "NV"
+  }, {
+    "city": "Santa Monica",
+    "state": "CA"
+  }, {
+    "city": "Sunland",
+    "state": "CA"
+  }, {
+    "city": "Arleta",
+    "state": "CA"
+  }, {
+    "city": "Del Mar",
+    "state": "CA"
+  }, {
+    "city": "Milwaukie",
+    "state": "OR"
+  }, {
+    "city": "Shelburne",
+    "state": "VT"
+  }, {
+    "city": "Essex Junction",
+    "state": "VT"
+  }, {
+    "city": "South Ozone Park",
+    "state": "NY"
+  }, {
+    "city": "Mattydale",
+    "state": "NY"
+  }, {
+    "city": "Sloan",
+    "state": "NY"
+  }, {
+    "city": "Chesapeake",
+    "state": "VA"
+  }, {
+    "city": "Tucker",
+    "state": "GA"
+  }, {
+    "city": "Doraville",
+    "state": "GA"
+  }, {
+    "city": "Pt Wentworth",
+    "state": "GA"
+  }, {
+    "city": "Port Wentworth",
+    "state": "GA"
+  }, {
+    "city": "Ponte Vedra",
+    "state": "FL"
+  }, {
+    "city": "Winter Park",
+    "state": "FL"
+  }, {
+    "city": "Cape Coral",
+    "state": "FL"
+  }, {
+    "city": "Shoal Creek",
+    "state": "AL"
+  }, {
+    "city": "New Albany",
+    "state": "OH"
+  }, {
+    "city": "Pickerington",
+    "state": "OH"
+  }, {
+    "city": "Des moines",
+    "state": "IA"
+  }, {
+    "city": "Papillion",
+    "state": "NE"
+  }, {
+    "city": "Circle Omaha",
+    "state": "NE"
+  }, {
+    "city": "Del City",
+    "state": "OK"
+  }, {
+    "city": "Crandall",
+    "state": "TX"
+  }, {
+    "city": "Justin",
+    "state": "TX"
+  }, {
+    "city": "Roanoke",
+    "state": "TX"
+  }, {
+    "city": "Corpus Christi",
+    "state": "TX"
+  }, {
+    "city": "DENVER",
+    "state": "CO"
+  }, {
+    "city": "Garden City",
+    "state": "ID"
+  }, {
+    "city": "Clark County",
+    "state": "NV"
+  }, {
+    "city": "Enterprise",
+    "state": "NV"
+  }, {
+    "city": "Santee",
+    "state": "CA"
+  }, {
+    "city": "San Ysidro",
+    "state": "CA"
+  }, {
+    "city": "Lake Oswego",
+    "state": "OR"
+  }, {
+    "city": "Mint Hill",
+    "state": "NC"
+  }, {
+    "city": "Flowery Branch",
+    "state": "GA"
+  }, {
+    "city": "Coconut Grove",
+    "state": "FL"
+  }, {
+    "city": "Newalla",
+    "state": "OK"
+  }, {
+    "city": "Pearland",
+    "state": "TX"
+  }, {
+    "city": "Dorchester Center",
+    "state": "MA"
+  }, {
+    "city": "Kew Garden Hills",
+    "state": "NY"
+  }, {
+    "city": "Cambria Heights",
+    "state": "NY"
+  }, {
+    "city": "Newark City",
+    "state": "NJ"
+  }, {
+    "city": "Manhattan",
+    "state": "NY"
+  }, {
+    "city": "Bellerose",
+    "state": "NY"
+  }, {
+    "city": "Pinecrest",
+    "state": "FL"
+  }]

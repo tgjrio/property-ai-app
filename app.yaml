@@ -1,0 +1,7 @@
+service: property-ai
+runtime: custom
+env: flex
+env_variables:
+  STREAMLIT_SERVER_ENABLE_CORS: 'false'
+  STREAMLIT_SERVER_ENABLE_XSRF_PROTECTION: 'false'
+instance_class: F2
